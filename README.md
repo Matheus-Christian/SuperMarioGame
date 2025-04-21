@@ -3,6 +3,8 @@ Mario: Infinity é uma corrida infinita inspirada no Super Mario Wolrd. Em cada 
 
 Tecnologias usadas: HTML, CSS, JavaScript.
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Matheus-Christian/SuperMarioGame/blob/main/LICENSE)
+
 ## Em desenvolvimento:
 
 ### First part ✅
